@@ -1,0 +1,21 @@
+
+[
+  {
+    "id": "1",
+    "name": "Keluarga Besar Moh. Hasan",
+    "message": "Barakallahu lakum wa baraka 'alaikum wa jama'a bainakuma fii khair. Semoga menjadi keluarga sakinah mawaddah warahmah.",
+    "createdAt": 1735462800000
+  },
+  {
+    "id": "2",
+    "name": "Sahabat Anisah",
+    "message": "Selamat menempuh hidup baru Anisah & Ahmad! Semoga cinta kalian selalu mekar seperti bunga di musim semi.",
+    "createdAt": 1735466400000
+  },
+  {
+    "id": "3",
+    "name": "Bpk. Siman & Ibu Titin",
+    "message": "Doa terbaik untuk anak-anak kami. Semoga langkah kalian selalu dalam ridho Allah SWT.",
+    "createdAt": 1735470000000
+  }
+]

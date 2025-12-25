@@ -1,0 +1,7 @@
+{
+  "name": "The Wedding of Yamin & Anisa",
+  "description": "Undangan Pernikahan Digital Modern untuk Yamin (Ahmad Askhabul Yamin) dan Anisa (Anisah Permata Sari) dengan fitur countdown, peta lokasi, kado digital, dan ucapan selamat.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
